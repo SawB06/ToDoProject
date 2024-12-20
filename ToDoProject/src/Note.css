@@ -1,0 +1,36 @@
+#Note{
+    margin: 30px 50px 25px 50px;
+    padding: 0px 15px 1px 15px;
+    background-color: #FFFAE3;
+    color: #1B2D2A;
+    text-align: center;
+    width: fit-content;
+    min-width: 400px;
+    border-radius: 15px; 
+    transition: all 0.3s ease;
+    box-shadow: 2px 4px #131f1d;
+}
+#Note:hover{
+    background-color: #c3c0b0;
+    box-shadow: 5px 10px #131f1d;
+}
+
+h2{
+    margin-top: 8px;
+    margin-bottom: 2px;
+}
+
+p{
+    margin-top: 1px;
+    margin-bottom: 4px;
+}
+
+.buttonNote{
+    color: #FFFAE3;
+    border: 0px;
+    border-radius: 100px;
+    background-color: #1B2D2A;
+    margin-bottom: 8px;
+    padding-top: 2px;
+}
+
